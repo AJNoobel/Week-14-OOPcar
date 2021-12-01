@@ -1,0 +1,11 @@
+C:\Users\opilane\source\repos\titpe21\OOPcar\ObjectsFromFile\bin\Debug\netcoreapp2.1\ObjectsFromFile.deps.json
+C:\Users\opilane\source\repos\titpe21\OOPcar\ObjectsFromFile\bin\Debug\netcoreapp2.1\ObjectsFromFile.runtimeconfig.json
+C:\Users\opilane\source\repos\titpe21\OOPcar\ObjectsFromFile\bin\Debug\netcoreapp2.1\ObjectsFromFile.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\titpe21\OOPcar\ObjectsFromFile\bin\Debug\netcoreapp2.1\ObjectsFromFile.dll
+C:\Users\opilane\source\repos\titpe21\OOPcar\ObjectsFromFile\bin\Debug\netcoreapp2.1\ObjectsFromFile.pdb
+C:\Users\opilane\source\repos\titpe21\OOPcar\ObjectsFromFile\obj\Debug\netcoreapp2.1\ObjectsFromFile.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\titpe21\OOPcar\ObjectsFromFile\obj\Debug\netcoreapp2.1\ObjectsFromFile.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\titpe21\OOPcar\ObjectsFromFile\obj\Debug\netcoreapp2.1\ObjectsFromFile.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\titpe21\OOPcar\ObjectsFromFile\obj\Debug\netcoreapp2.1\ObjectsFromFile.AssemblyInfo.cs
+C:\Users\opilane\source\repos\titpe21\OOPcar\ObjectsFromFile\obj\Debug\netcoreapp2.1\ObjectsFromFile.dll
+C:\Users\opilane\source\repos\titpe21\OOPcar\ObjectsFromFile\obj\Debug\netcoreapp2.1\ObjectsFromFile.pdb
